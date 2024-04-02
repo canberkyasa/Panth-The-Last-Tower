@@ -5,8 +5,9 @@ Pant: The Last Tower is a 2D open-world tower defense game developed in Unity. P
 
 
 ## Youtube
-[![Panth: The Last Tower](https://img.youtube.com/vi/ZsJM6FJXaQ8/0.jpg)](https://www.youtube.com/watch?v=ZsJM6FJXaQ8)
+https://github.com/canberkyasa/Panth-The-Last-Tower/assets/71454928/a34aee60-cda5-478e-8bee-5113425ae702
 
+**Link** : https://youtu.be/ZsJM6FJXaQ8
 
 
 ## Screenshots
